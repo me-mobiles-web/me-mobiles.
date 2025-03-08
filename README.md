@@ -201,7 +201,8 @@
                 <a href="https://wa.me/918489061134?text=I'm interested in ME Ultra Pro 13." class="buy-button">Buy Now</a>
             </div>
             <div class="product">
-                <img src="https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=800&q=80" alt="ME Lite 8">
+                <img src="![Uploading image.png…]()
+">
                 <h3>ME Lite 8</h3>
                 <p>₹42,999</p>
                 <a href="https://wa.me/918489061134?text=I'm interested in ME Lite 8." class="buy-button">Buy Now</a>
